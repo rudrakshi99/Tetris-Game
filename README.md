@@ -16,7 +16,7 @@ It is a game 🎮 that used seven distinctive geometric playing pieces, each mad
 
 ## How to play
 
-The **Tetris playing** field is a 600x300 grid. Your goal is to continually stack tetrominoes and clear lines as long as you can. To do that, you need to fill an entire line horizontally with blocks, causing those lines to disappear and giving you more space to stack.
+The **Tetris playing** field is a 10x20 grid. Your goal is to continually stack tetrominoes and clear lines as long as you can. To do that, you need to fill an entire line horizontally with blocks, causing those lines to disappear and giving you more space to stack.
 
 If you run out of space and can no longer place any more tetrominoes, you top out and the game is over.
 
