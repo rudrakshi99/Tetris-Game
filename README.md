@@ -25,4 +25,6 @@ To play longer and get higher scores, you need to creatively stack your blocks a
 ## Game video
 Click [here](https://drive.google.com/file/d/1rGLgujmt28Wg_S0ULcYHMc5hFKfoCNIn/view?usp=sharing).
 
-![alt](https://i.ytimg.com/vi/twkdRpn-s5k/maxresdefault.jpg)
+## Screenshots
+<img src="./Game_Photos/Screenshot (93).png" >
+
