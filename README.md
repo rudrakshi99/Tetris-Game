@@ -10,9 +10,9 @@ It is a game 🎮 that used seven distinctive geometric playing pieces, each mad
 
 -Then type in: ``git clone https://github.com/rudrakshi99/Tetris-Game.git``
 
--Download the music🎶 file of game in the same folder from [here](https://drive.google.com/file/d/1gUyr5-4b8RzUS29N5cCjkyhx_YKsTr5u/view?usp=sharing).
+-Download the music🎶 file of the game in the same folder from [here](https://drive.google.com/file/d/1gUyr5-4b8RzUS29N5cCjkyhx_YKsTr5u/view?usp=sharing).
 
--Run the python file and enjoy the game 🎉.
+-Run the Python file and enjoy the game 🎉.
 
 ## How to play
 
@@ -22,9 +22,5 @@ If you run out of space and can no longer place any more tetrominoes, you top ou
 
 To play longer and get higher scores, you need to creatively stack your blocks and remove as many lines as possible with each piece you lay down.
 
-## Game video
-Click [here](https://drive.google.com/file/d/1rGLgujmt28Wg_S0ULcYHMc5hFKfoCNIn/view?usp=sharing).
-
-## Screenshots
-<img src="./Game_Photos/Screenshot (93).png" >
-
+## Demo
+<a href="https://youtu.be/-4WkaDFC360"> <img src="./Game_Photos/Screenshot (93).png" alt="Demo Video" height='450' width='400'/> </a>
