@@ -2,17 +2,17 @@
 
 It is a game 🎮 that used seven distinctive geometric playing pieces, each made up of four squares.
 
-## Download:
+## How to run
 
--Open cmd/terminal
+- Open cmd/terminal
 
--Navigate to your workspace
+- Navigate to your workspace
 
--Then type in: ``git clone https://github.com/rudrakshi99/Tetris-Game.git``
+- Then type in: ``git clone https://github.com/rudrakshi99/Tetris-Game.git``
 
--Download the music🎶 file of the game in the same folder from [here](https://drive.google.com/file/d/1gUyr5-4b8RzUS29N5cCjkyhx_YKsTr5u/view?usp=sharing).
+- Download the music🎶 file of the game in the same folder from [here](https://drive.google.com/file/d/1gUyr5-4b8RzUS29N5cCjkyhx_YKsTr5u/view?usp=sharing).
 
--Run the Python file and enjoy the game 🎉.
+- Run the Python file and enjoy the game 🎉.
 
 ## How to play
 
